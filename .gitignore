@@ -1,0 +1,6 @@
+*.bin
+*.npy
+*.pth
+*.onnx
+*.engine
+*.pyc
